@@ -5,7 +5,7 @@
   👩🏻‍🎓 I’m majoring in Computer Science at Kyunghee University.<br/>
   🇩🇪 I also studied Cognitive Science at Osnabrück University.<br/>
   🌱 I’m currently learning Java and Spring.<br/>
-  🩷 I’m enjoying swimming and hiking 🏊🏻‍♀️⛰️.<br/>
+  ❤️ I’m enjoying swimming and hiking 🏊🏻‍♀️⛰️.<br/>
 </p>
 
 ### Skills
