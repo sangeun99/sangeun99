@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I’m Sangeun
 
-<!--
-**sangeun99/sangeun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction
+<p>
+  👩🏻‍🎓 I’m majoring in Computer Science at Kyunghee University.<br/>
+  🇩🇪 I also studied Cognitive Science at Osnabrück University.<br/>
+  🌱 I’m currently learning Java and Spring.<br/>
+  🩷 I’m enjoying swimming and hiking 🏊🏻‍♀️⛰️.<br/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+<p>
+  <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flask-000000?style=plastic&logo=Flask&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=Mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon aws&logoColor=white">
+</p>
