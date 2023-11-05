@@ -2,10 +2,10 @@
 
 ### Introduction
 <p>
-  👩🏻‍🎓 I’m majoring in Computer Science at Kyunghee University.<br/>
-  🇩🇪 I also studied Cognitive Science at Osnabrück University.<br/>
-  🌱 I’m currently learning Java and Spring.<br/>
-  ❤️ I’m enjoying swimming and hiking 🏊🏻‍♀️⛰️.<br/>
+  👩🏻‍🎓 I’m majoring in <strong><i>Computer Science</i></strong> at Kyunghee University.<br/>
+  🇩🇪 I also studied Cognitive Science (especially AI) at Osnabrück University.<br/>
+  🌱 I’m currently learning <strong><i>Java</i></strong> and <strong><i>Spring</i></strong>.<br/>
+  ❤️ I’m enjoying swimming and hiking 🏊🏻‍♀️⛰️<br/>
 </p>
 
 ### Skills
